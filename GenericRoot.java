@@ -7,13 +7,14 @@ public class GenericRoot {
         while(n/10 > 0)
         {   
             int temp = n;
-            int sum = 0;
+            // int sum = 0;
+            n = 0;
             while(temp > 0)
             {
-                sum += temp%10;
+                n += temp%10;
                 temp/=10;
             }
-            n = sum;
+            // n = sum;
         }
         System.out.println(n);
 
