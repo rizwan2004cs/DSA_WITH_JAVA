@@ -1,0 +1,99 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Amicable",
+            "request": "launch",
+            "mainClass": "Amicable",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "Balanced",
+            "request": "launch",
+            "mainClass": "Balanced",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "Digitdiff",
+            "request": "launch",
+            "mainClass": "Digitdiff",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "FlipCompare",
+            "request": "launch",
+            "mainClass": "FlipCompare",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "GenericRoot",
+            "request": "launch",
+            "mainClass": "GenericRoot",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "JumpingNumbers",
+            "request": "launch",
+            "mainClass": "JumpingNumbers",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "MagicNumber",
+            "request": "launch",
+            "mainClass": "MagicNumber",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "OddEvenSum",
+            "request": "launch",
+            "mainClass": "OddEvenSum",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "Perfect",
+            "request": "launch",
+            "mainClass": "Perfect",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "RangeOfStrong",
+            "request": "launch",
+            "mainClass": "RangeOfStrong",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "Strong",
+            "request": "launch",
+            "mainClass": "Strong",
+            "projectName": "java_3e0290da"
+        }
+    ]
+}
