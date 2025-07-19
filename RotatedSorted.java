@@ -7,6 +7,7 @@ public class RotatedSorted{
                 break; 
                 }
         }
+        
         index+=1;
         System.out.println(index);
         boolean flag = true;

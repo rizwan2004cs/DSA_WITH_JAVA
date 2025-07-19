@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LengthOfLongestSubArrayPsZeroNeg",
+            "request": "launch",
+            "mainClass": "LengthOfLongestSubArrayPsZeroNeg",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "FlippingImage",
             "request": "launch",
             "mainClass": "FlippingImage",
