@@ -1,0 +1,8 @@
+Enter the size of the Array: Enter the Elements of the Array: _ _ _ 
+_ _ c 
+_ b _ 
+_ b c 
+a _ _ 
+a _ c 
+a b _ 
+a b c 

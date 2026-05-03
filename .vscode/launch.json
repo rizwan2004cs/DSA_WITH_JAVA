@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Swasthik",
+            "request": "launch",
+            "mainClass": "Swasthik",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "SandTimer",
+            "request": "launch",
+            "mainClass": "SandTimer",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "LengthOfLongestSubArrayPsZeroNeg",
             "request": "launch",
             "mainClass": "LengthOfLongestSubArrayPsZeroNeg",
